@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
 *{
   margin: 0;
   padding: 0;
@@ -91,8 +91,8 @@ img {
   margin-left: auto;
   margin-right: auto;
  
-  height: 200px;
-  width: 200px;
+  height: 300px;
+  width: 300px;
   z-index: -1;
   position: center;
   border-radius: 50%;
@@ -137,4 +137,10 @@ img {
 .center .btns button:last-child{
   background: white;
   color: black;
+}
+.About
+{
+    color: #000;
+   background: #fff;
+   position: relative;
 }
